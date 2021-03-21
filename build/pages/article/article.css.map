@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACD,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,6GAA6G;CAAG;;AAEjI,AAAA,IAAI,EAAC,EAAE,CAAC;EACJ,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,KAAK,EAAE,IAAI;CAAG;;ADLlB,AAAA,MAAM,CAAC;EACH,gBAAgB,EAAE,IAAI;EACtB,SAAS,EAAE,MAAM;CAKG;;AAPxB,AAII,MAJE,CAIF,EAAE,CAAC;EACC,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,IAAI;CAAG",
+    "sources": [
+        "../../../templete/pages/article/article.sass",
+        "../../../layout/_setting.sass"
+    ],
+    "names": [],
+    "file": "article.css"
+}

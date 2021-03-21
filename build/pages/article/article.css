@@ -1,0 +1,22 @@
+html {
+  font-size: 10px;
+  font-family: Helvetica Neue,Roboto,Ubuntu,Segoe UI,Noto Sans JP,HiraginoGYSans,Hiragino Kaku Gothic ProN,Meiryo,sans-serif;
+}
+
+body, h1 {
+  margin: 0;
+  padding: 0;
+  color: #111;
+}
+
+header {
+  background-color: #111;
+  font-size: 1.4rem;
+}
+
+header h1 {
+  padding: 10px;
+  display: inline-block;
+  color: #fff;
+}
+/*# sourceMappingURL=article.css.map */
